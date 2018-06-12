@@ -1,6 +1,6 @@
 ---
 title: "teste_mnk"
-author: "Marcia"
+author: "Marcia Kurtz"
 date: "12 de junho de 2018"
 output: word_document
 ---
